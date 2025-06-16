@@ -4,19 +4,19 @@ blis==0.7.11
 boltons 
 brotlipy==0.7.0
 catalogue==2.0.10
-certifi @ file:///C:/b/abs_4a0polqwty/croot/certifi_1683875377622/work/certifi
-cffi @ file:///C:/ci_311/cffi_1676423759166/work
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+certifi 
+cffi 
+charset-normalizer
 click==8.1.7
 cloudpathlib==0.16.0
-colorama @ file:///C:/ci_311/colorama_1676422310965/work
-conda @ file:///C:/b/abs_b5q92oum8h/croot/conda_1689272261421/work
-conda-content-trust @ file:///C:/ci_311/conda-content-trust_1676467587370/work
-conda-libmamba-solver @ file:///C:/b/abs_5a9xvt2a3k/croot/conda-libmamba-solver_1685032355900/work/src
-conda-package-handling @ file:///C:/b/abs_ce4_vcfd0y/croot/conda-package-handling_1685024800103/work
-conda_package_streaming @ file:///C:/b/abs_88a7k_wmm1/croot/conda-package-streaming_1685019697115/work
+colorama 
+conda 
+conda-content-trust 
+conda-libmamba-solver 
+conda-package-handling 
+conda_package_streaming 
 confection==0.1.4
-cryptography @ file:///C:/b/abs_b28tzldafl/croot/cryptography_1686613103834/work
+cryptography 
 cymem==2.0.8
 dotenver==1.3.0
 Faker==24.3.0
@@ -24,48 +24,48 @@ Flask==2.3.3
 Flask-Cors==4.0.0
 Flask-JWT==0.3.2
 git-filter-repo==2.45.0
-idna @ file:///C:/ci_311/idna_1676424932545/work
+idna 
 iniconfig==2.0.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
-jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpatch 
 jsonpointer==2.1
 langcodes==3.3.0
-libmambapy @ file:///C:/b/abs_f0tnqlkcbn/croot/mamba-split_1685993165748/work/libmambapy
+libmambapy 
 MarkupSafe==2.1.3
-menuinst @ file:///C:/ci_311/menuinst_1678730372782/work
+menuinst 
 murmurhash==1.0.10
 numpy==1.26.4
-packaging @ file:///C:/b/abs_ed_kb9w6g4/croot/packaging_1678965418855/work
-pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
+packaging 
+pluggy 
 preshed==3.0.9
-pycosat @ file:///C:/ci_311/pycosat_1676438455539/work
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycosat 
+pycparser
 pydantic==1.10.0
 pydantic-settings==2.2.1
 pydantic_core==2.16.3
 PyJWT==1.4.2
-pyOpenSSL @ file:///C:/b/abs_de215ipd18/croot/pyopenssl_1678965319166/work
-PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+pyOpenSSL 
+PySocks 
 pytest==7.4.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
-requests @ file:///C:/b/abs_41owkd5ymz/croot/requests_1682607524657/work
-ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+requests 
+ruamel.yaml 
+six 
 smart-open==6.4.0
 spacy==3.7.4
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
 thinc==8.2.3
-toolz @ file:///C:/ci_311/toolz_1676431406517/work
-tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+toolz 
+tqdm 
 typer==0.9.0
 typing_extensions==4.10.0
-urllib3 @ file:///C:/b/abs_889_loyqv4/croot/urllib3_1686163174463/work
+urllib3
 wasabi==1.1.2
 weasel==0.3.4
 Werkzeug==2.3.7
-win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+win-inet-pton 
 zstandard==0.19.0
