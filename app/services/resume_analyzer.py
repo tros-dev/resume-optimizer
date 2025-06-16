@@ -2,7 +2,6 @@ from app.models.schemas import ResumeAnalysisResponse, SkillSummary
 
 class ResumeAnalyzer:
     def __init__(self):
-        # load ML models, embeddings, etc.
         pass
 
     def analyze(self, filename: str, content: bytes) -> ResumeAnalysisResponse:
