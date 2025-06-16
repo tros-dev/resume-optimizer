@@ -10,11 +10,6 @@ charset-normalizer
 click==8.1.7
 cloudpathlib==0.16.0
 colorama 
-conda 
-conda-content-trust 
-conda-libmamba-solver 
-conda-package-handling 
-conda_package_streaming 
 confection==0.1.4
 cryptography 
 cymem==2.0.8
