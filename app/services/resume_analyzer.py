@@ -6,7 +6,6 @@ class ResumeAnalyzer:
         pass
 
     def analyze(self, filename: str, content: bytes) -> ResumeAnalysisResponse:
-        # placeholder logic, replace with real ML later
         skills = [
             SkillSummary(skill="Python", confidence=0.95),
             SkillSummary(skill="FastAPI", confidence=0.88),
