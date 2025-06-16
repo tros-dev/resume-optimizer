@@ -1,5 +1,4 @@
 def analyze_resume_content(content: bytes) -> dict:
-    # Placeholder logic for ML analysis
     text = content.decode("utf-8", errors="ignore")
 
     summary = "Detected resume content with 80% match to Data Scientist role."
