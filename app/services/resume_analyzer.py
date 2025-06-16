@@ -1,4 +1,3 @@
-# app/services/resume_analyzer.py
 from app.models.schemas import ResumeAnalysisResponse, SkillSummary
 
 class ResumeAnalyzer:
