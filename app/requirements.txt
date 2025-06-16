@@ -26,7 +26,6 @@ Jinja2==3.1.2
 jsonpatch 
 jsonpointer==2.1
 langcodes==3.3.0
-libmambapy 
 MarkupSafe==2.1.3
 menuinst 
 murmurhash==1.0.10
